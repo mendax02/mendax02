@@ -41,5 +41,12 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer(but prefers mostly backend :p <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer(but prefers mostly backend :p )<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications, .net libraries.
+
+- :seedling: Exploringnew technologies.
+
+- :zap: In my free time, I read tech articles, cook anf travel, and if I fine time take a nap when ever possible...
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth02/)
 
