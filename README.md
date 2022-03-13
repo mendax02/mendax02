@@ -2,7 +2,9 @@
 
 <!--
 **mendax02/mendax02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
