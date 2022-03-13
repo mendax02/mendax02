@@ -48,7 +48,7 @@ I am a back Developer(learning front-end as well)<img src="https://media.giphy.c
 
 - :zap: In my free time, I read tech articles, cook and travel, and if I find time take a nap when ever possible...
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth02/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth02/)
 ### :hammer_and_wrench: Languages and Tools :
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Git" **alt="Git" width="40" height="40"/>
