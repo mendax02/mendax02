@@ -30,6 +30,6 @@ Here are some ideas to get you started:
   </a>
 -->
   
-<img src="https://komarev.com/ghpvc/?username=mendax02&style=flat-square&color=blue" alt="" align="center"/>
+<img src="https://komarev.com/ghpvc/?username=mendax02&style=flat-square&color=blue" alt=""/>
 
 </div>
