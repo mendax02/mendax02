@@ -64,5 +64,5 @@ I am a Full Stack Developer(but prefers mostly backend :p )<img src="https://med
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mendax02&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendax02&layout=compact&theme=vision-friendly-dark)](https://github.com/mendax02/github-readme-stats)
+
