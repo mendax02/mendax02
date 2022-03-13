@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
 <img src="https://komarev.com/ghpvc/?username=mendax02&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hey there!! I am Siddharth Rawat
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 I am a back Developer(learning front-end as well)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend/backend for building web applications, .net libraries.
 
-- :seedling: Exploring new technologies.
+- :seedling: Exploring new technologies. Currently learning and practicing Akka.net
 
 - :zap: In my free time, I read tech articles, cook and travel, and if I find time take a nap when ever possible...
 
