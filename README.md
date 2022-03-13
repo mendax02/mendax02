@@ -67,3 +67,4 @@ I am a back Developer(learning front-end as well)<img src="https://media.giphy.c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendax02&layout=compact&theme=vision-friendly-dark&hide=php)
 
 ---
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=mendax02&show_icons=true&hide_border=true&theme=vision-friendly-dark)
