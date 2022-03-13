@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
 
+---
 ### :man_technologist: About Me :
-I am a Full Stack Developer(but prefers mostly backend :p )<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a back Developer(learning front-end as well)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m working as a Software Engineer and contributing to frontend/backend for building web applications, .net libraries.
 
 - :seedling: Exploring new technologies.
